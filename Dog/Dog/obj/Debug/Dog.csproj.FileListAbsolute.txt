@@ -1,0 +1,7 @@
+C:\Users\Cody\Desktop\Projects\Dog\Dog\bin\Debug\Dog.exe.config
+C:\Users\Cody\Desktop\Projects\Dog\Dog\bin\Debug\Dog.exe
+C:\Users\Cody\Desktop\Projects\Dog\Dog\bin\Debug\Dog.pdb
+C:\Users\Cody\Desktop\Projects\Dog\Dog\obj\Debug\Dog.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\Projects\Dog\Dog\obj\Debug\Dog.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\Projects\Dog\Dog\obj\Debug\Dog.exe
+C:\Users\Cody\Desktop\Projects\Dog\Dog\obj\Debug\Dog.pdb

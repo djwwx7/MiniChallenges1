@@ -1,0 +1,7 @@
+C:\Users\Cody\Desktop\Projects\Document\Document\bin\Debug\Document.exe.config
+C:\Users\Cody\Desktop\Projects\Document\Document\bin\Debug\Document.exe
+C:\Users\Cody\Desktop\Projects\Document\Document\bin\Debug\Document.pdb
+C:\Users\Cody\Desktop\Projects\Document\Document\obj\Debug\Document.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\Projects\Document\Document\obj\Debug\Document.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\Projects\Document\Document\obj\Debug\Document.exe
+C:\Users\Cody\Desktop\Projects\Document\Document\obj\Debug\Document.pdb
